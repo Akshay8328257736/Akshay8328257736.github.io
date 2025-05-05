@@ -7140,7 +7140,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ff7a57 !important;
+  background-color: #575dff !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -11177,11 +11177,11 @@ pre {
   display: block;
   font-size: 40px;
   margin-bottom: 18px;
-  color: #ff7a57;
+  color: #000;
 }
 
 .custom-card:hover, .custom-card:active {
-  background: #ff7a57;
+  background: #575dff;
   color: #fff;
 }
 
@@ -11417,7 +11417,7 @@ pre {
   width: 13px;
   height: 13px;
   border-radius: 50%;
-  background: #ff7a57;
+  background: #575dff;
   box-shadow: 0 0 10px rgba(255, 122, 87, 0.5);
 }
 
@@ -11652,4 +11652,9 @@ pre {
 
 .section.bg-gray {
   background: white;
+}
+.ak{
+  width: 25vw;
+  height: 30vw;
+  object-fit: contain;
 }
